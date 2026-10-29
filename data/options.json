@@ -1,1 +1,18 @@
 
+[
+  {
+    "id": 1,
+    "name": "Minecraft",
+    "emoji": "⛏️"
+  },
+  {
+    "id": 2,
+    "name": "Fortnite",
+    "emoji": "🎮"
+  },
+  {
+    "id": 3,
+    "name": "Mario",
+    "emoji": "🍄"
+  }
+]
