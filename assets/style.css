@@ -1,1 +1,52 @@
 
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 30px;
+}
+
+main {
+  max-width: 550px;
+  margin: auto;
+  padding: 25px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+h1, h2 {
+  color: #243b64;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+textarea {
+  min-height: 80px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 25px;
+  overflow-wrap: anywhere;
+}
+
+#result img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
